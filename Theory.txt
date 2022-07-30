@@ -1,0 +1,6 @@
+BigO rule
+
+1. Worst Case
+2. Remove Constant
+3. Different terms for input
+4. Drop non-dominant terms
